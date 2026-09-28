@@ -1,0 +1,9 @@
+# Change Log — Streakly Comeback Experience
+
+*Simple date + entry log of key decisions and milestones. Newest entries at the top.*
+
+- **2026-09-28** — Synthesized interview-synthesis.md, nps-analysis.md, and competitive-matrix.md into a 1-page decision brief for Marcus (decision-brief.md). Recommended pursuing all 3 strategy.md workstreams (notification tone, reactive comeback experience, proactive week-1 anxiety reduction) in parallel for the rest of discovery, since each is independently corroborated by a different data source.
+- **2026-09-28** — Analyzed 10 raw NPS comments (nps-analysis.md) for Marcus. Top theme: punitive streak reset (4 mentions), followed by desire for a recovery mechanism (3), total abandonment after a lost streak (3), and notification fatigue (2). Independently corroborates the interview synthesis and current strategy — no new problem area surfaced.
+- **2026-09-28** — Completed competitive scan (competitive-matrix.md): Duolingo, Babbel, Elevate, Habitica, Streaks. Found 2 white-space gaps that validate the existing strategy: no competitor offers a free, non-monetized graceful comeback moment, and none proactively ease streak anxiety before a lapse happens.
+- **2026-09-28** — Synthesized 3 user interviews (interview-synthesis.md). Key finding: streak-loss anxiety starts as early as day 4, well before the habit forms (~3 weeks) — churn isn't only a reaction to a broken streak, it's already shaping week-1 users before any lapse. Added a proactive, week-1-focused component to strategy.md alongside the existing reactive comeback workstream.
+- **2026-09-28** — Day 1 of the discovery phase. Kicked off the Comeback Experience project: two workstreams defined (notification tone, easy comeback experience triggered after missing X days). Discovery scoped to 8 weeks from sprint kickoff.
